@@ -1,0 +1,7 @@
+### Begin Matrix
+[0.31622776601683794, 0.31622776601683794, 0.31622776601683794, 0.31622776601683794, 0.31622776601683794, 0.31622776601683794, 0.31622776601683794, 0.31622776601683794, 0.31622776601683794, 0.31622776601683794]
+### End Matrix
+
+### Begin Extracted Feature List
+aethalium, amaurochaetaceae, combined, family, form, fries, rec, rostafinski, sporangia, stemonitidae
+### End Extracted Feature List
